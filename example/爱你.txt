@@ -1,0 +1,43 @@
+bpm=192
+
+-G
+
+-(QC)Q-Q(QA)-Q-HVQAQ
+
+-(GB)G-G(WM)-J-QCGAQ
+
+-(QC)Q-Q(EA)-Q-QVHAH
+
+-(GB)G-G(WM)-J-QC (DB)F
+
+(GC) (QA)+-Q(JV)HAH
+
+(HB)G(SM)-F-FZDCA
+
+(AV) (HA)-J-HBGSD
+
+(FV)G(HA)-J-HBGS0
+
+(GC) (QA)+-Q(QV)HAH
+
+(GB)W(WM)-J-QCEAE
+
+(RV)E(WA)Q(QB)H(JS)Q
+
+W(SG)(SG)(SG)(SG)QQW
+
+(EBA)(EBA)(TBA)-(TBA)-T(NS)(RNS)(NS)(QNS)
+
+(WBS)(WBS)(RBS)-(TBS)-R(BA)(EBA)(BA)(BA)
+
+(QCN)(QCN)(ECN)-(RCN)-E(XB)(WXB)(HXB)(JXB)
+
+(QZV)(ZV)(EZV)-(RZV)-E(XB)(WXB)(XB)(GXB)
+
+(EBA)(EBA)(TBA)-(YBA)-T(NS)(RNS)(NS)(QNS)
+
+(WBS)(WBS)(RBS)-(TBS)-R(BA)(EBA)(BA)(QBA)
+
+(QZV)(YZV)(ZV)(QZV)(JXB)(XB)(EXB)-(EXB)-E
+
+(BA)(QBA)(BA)-(WBA)-Q(BA)[ASDFGHJQA]

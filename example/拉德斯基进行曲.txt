@@ -1,0 +1,60 @@
+bpm=150
+
+-Q-QQ-Q-QQ
+EWQ+-J
+-H-G-H-JQW
+G  -D-S
+D-D-SD-D-S
+DSA-D-S
+D-D-SD-D-S
+
+DHG-G-D
+FHG-G-S
+DHG-G-D
+SJ H
+G-G-F-G-H-G-F
+D-D-SD-D-S
+DSA-D-S
+
+D-D-SD-D-S
+DHG-G-D
+FEW 
+DWQ 
+J+-H-G-F-D-S
+A-Q-QQ-Q-J
+Q-Q-JQ-Q-J
+
+QRH-Q-J
+Q-Q-JQ-Q-J
+QEG 
+G FH
+H GQ
+J-J-HGF
+H-H-GFD
+
+G FH
+H GQ
+J-J-GHQ
+J-J-GHQ
+E-E-EE-E-E
+E-E-EE-E-E
+C-C-XC-C-X
+
+C-C-XC-C-X
+D-D-SD-D-S
+DSA-D-S
+D-D-SD-D-S
+DHG-G-D
+FHG-G-S
+DHG-G-D
+
+SJ H
+G-G-F-G-H-G-F
+D-D-SD-D-S
+DSA-D-S
+D-D-SD-D-S
+DHG-G-D
+FEW 
+DWQ 
+J+-H-G-F-D-S
+AQQ 

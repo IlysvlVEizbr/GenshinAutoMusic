@@ -1,0 +1,133 @@
+bpm=212
+
+[ASDGHQWT] BNA BN(VNASF)  (MSG)  -B-NB
+
+(BASDG) B(BNAD)  BN(VNASF)  (BNMS)    
+
+Z (BASDG)(SDG)(ASDG)B(BAS)-(VG)-F(DV)-D-F(VBADG)DSV(BNMA)(BS)
+
+(ZASD)(BA)(XBG)-(BG)-H(NG)-(CG)-H(SG)(NQ)
+
+VD(FGQ)-(AH)-J-B-G(SH)(NMSJ)(SG)
+
+Z (BASDG)HGN(BAS)-(BD)-F(VG)-F-D(VBAS)NB(VB)(BNM)(BN)
+
+(ZB)(BD)(BA)-(BG)-H(NG)-(CG)-H(BG)(NQ)
+
+VD(FGQ)-(AH)-J-B-H(SJ)(HJQ)-S-(AD)
+
+(ZASDG)(SG)(DG)(XCBSDG) (BF)B(ND)
+
+(ZXVNA)-SS+(XBND) G-B-NB(CBAS)H-(BG)-(DG)-(ZCB)-(SG)(ZCN) (GB)-(VN)-A
+
+(XVBNA)N-(BNA)-S(XBNMA)  BN(BNASG)+-G-(GB)-N(GB)(XCBA)FB(ND)
+
+(ZXVNA)-SD+(XBND) G-B-NB(CBAS)H-(BG)-D-(ZCB)-S(ZCN) (ZB)-(VN)-A
+
+(XVNA)N-A-S-(XBNMA)    
+
+(AFGH)Y-T(ET)-(WT)  (GT)-H-Q(XBFGHQ)    H-QW-Q
+
+Z-BA-SAC-NA-SAV-BN-ANX-BN-MB
+
+Z-BA-SAC-NA-SAV-BN-ANX-BN-MB
+
+(ZA)-B-A(SDG)(BG)(GBN)-B-N(BNAD)-(CG)-F
+
+(ZVD)-(BD)-(NF)(GBNAF)(ND)(BS)-B-N(NMA)(XS)
+
+(ZD)-(BA)-S(XCB)-(BG)-H(NG)-(BG)-(HNA)(NADG)(CQ)
+
+(ZV)-(BA)-N(QVBNA)-(HV)-J-B-G-(BMH)-N-(NMSJ)-X(BG)
+
+(ZA)-B-A(SDG)(BH)(BG)-B-N(BNAD)-(CD)-F
+
+(ZVG)-(BAF)-(DN)(SVBNA)(ZN)-(XB)-X-(XM)-N(XV)-(BN)-N
+
+(ZB)-(BD)-S(XCBA)-(BG)-H(GN)-(GB)-(NAH)(GNAD)(QC)
+
+(ZV)-(BA)-N(VBNAQ)-(ZH)-J-(XB)-(XH)-(XMJ)-N(QBNS)X
+
+(ZNADG)-G-(SDG)(BA)(GN)(ZBN)FB(ND)
+
+(VBNA)-SS+(VMSD) G-B-NB
+
+(BASD)(AH)-(BG)-(DG)-N-(SG)(BNA) (BG)-(VN)-A
+
+(VBNA)N-A-S(VBNA)  Z-B-(NA)
+
+(ZBNA)-G-G(BA)(NG)(ZVB)FB(ND)
+
+(VBNA)-SD+(VMSD) G-B-NB
+
+(BASDG)(AH)-(BAG)-(DG)-N-(SG)(CA) (XBG)-(NH)-A
+
+(VBNA)N-A-S(VBNA)    
+
+(ZSDG)-B-(BA)-S-S-(AB)-A-(ZC)-G-N-(BA)-(NS)-S(BA)
+
+(VBNAF)-(BA)-N-S-A-(VB)-A-(XB)-G-B-(NA)-S-MB
+
+(ZSDG)-B-(BA)-S-S-(AB)-A-(ZC)-G-N-(BA)-(NS)-S(BA)
+
+(VBNAF)-(BA)-N-S-A-(VB)-A-(XB)-G-B-(NA)-S-MB
+
+(ZSDG)-B-(BA)-S-S-(AB)-A-(ZC)-G-N-(BA)-(NS)-S(BA)
+
+(VBNAF)-(BG)-(NH)-G-(AD)-(ZB)-S-(XB)-M-(BN)B-(MA)(XD)
+
+(ZSDG)-B-(BASD)-(BASD)-S(BA)-Z-(CB)-V-Z-(BZ)-(BX)(DA)
+
+(VNS)-N V+(BNMS)   
+
+(BNS)-M-SSF[BMSFG]   
+
+(ZB)A(BASDG)(SDG)(ADG)N(BAS)-(GB)-F
+
+(ZD)-(DV)-F(BG)(DV)SX(AB)S
+
+(AET)(QE)(RG)W(NSDGQE)Q(AGW)H
+
+(ZVB)CB[GH](BNMSG) -B-N-A-S
+
+ZB(SG)(BH)(NADG)  -D-F
+
+(ZVG)-(BF)-D(SN)(VN)(XVB)X(XV)(BN)
+
+(AET)(QE)(RG)W(NSDGQE)Q(AGW)H
+
+(VBNAFH)(SF)(DG)(AD)(BNMSF)(MD)(AD)(AN)
+
+-(VBNAF)-GH Q-(BNMSG)-HJ W
+
+-(ZV)-BN-N-BN-(CBNM)-B-N-M-S-FG
+
+(ZBA)-(BG)-(AG)B(NG)V-(FN)-A-B-D(AD)
+
+(AX)-(ZS)-S-B-A(DB)N(ZG)-N-A-B-D
+
+(BASD)(AH)-(BG)-(DG)-N-(SG)(BNA) (BG)-(VN)-A
+
+(VBNA)N-A-S(VBNA)  Z-B-(NA)
+
+(VBA)-(BG)(NG)-A(VG)(ZB)-(BF)-N-S-M(BD)
+
+(ZA)-(BS)(BAD)-S(AD)V-(NG)-(AG)-N-SA
+
+(BASD)(AH)-(BG)-(DG)-N-(SG)(BNA) (BG)-(VN)-A
+
+(VBNA)N-A-S(VBNA)    
+
+(ZB)-(XN)-AZ-(XN)-V-(VA)-S(CNA) D
+
+(CBNAD)F(NADF)-DA-N(BNMA) G
+
+(XCB) (NASFG)DF(VBNA) H
+
+(VBNAG)    B-(ZXVN)A+
+
+(ZSDGQ)-B(CA)-SAC-(BN)(NA)-SAV-BN-ANX-BN-MB
+
+Z-B(CA)-SA-(CE)-[RT]-(BNT)-(VN)-T-MN
+
+Z-(XT)-(BR)E-R-T(NMY)(UB)(XNT)+-UN(MT) [ZCBNSQWET]    

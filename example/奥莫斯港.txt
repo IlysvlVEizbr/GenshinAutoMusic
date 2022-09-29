@@ -1,0 +1,49 @@
+bpm=435
+(NH)  (DHE)/  (DHE)+-T/R(DH)E /(DHW) (NE) /
+(NH)  (DHE)/  (DHE)+-T/R(DH)E /(DHE) N /
+(BG)  (DHE)/  (DHE)+-T/R(DH)E /(DHW) (BE) /
+(BG)  (DHE)/  (DHE)+-T/R(DH)E /(DHE) B /
+
+(XG)  (SGW)/  (SGW)+-R/E(SG)W /(SGQ) (XW) /
+(XR) (AF)+-T/E (AF)+-R/W(SG) +-R/(SGE) (BE) /
+N HD/  (DH) / (DH)  /(DH) N /
+N  (DH)/  (DH) / (DH)  /(DHW)Q(NJ)Q/
+
+(NH)  (DHE)/  (DHE)+-T/R(DH)E /(DHW) (NE) /
+(NH)  (DHE)/  (DHE)+-T/R(DH)E /(DHE) N /
+(BG)  (DHE)/  (DHE)+-T/R(DH)E /(DHW) (BE) /
+(BG)  (DHE)/  (DHE)+-T/R(DH)E /(DHE) B /
+
+(XG)  (SGW)/  (SGW)+-R/E(SG)W /(SGQ) (XW) /
+(XR) (AF)+-T/E (AF)+-R/W(SG) +-R/(SGE) (BE) /
+N HD/  (DH) / (DH)  /(DH) N /
+N  (DH)/  (DH) / (DH)  /(CNE)T(NY)T/
+
+(VY)  (VNY)/  (VNY)+-Q/Y(VN)T /(VNT) (VY) /
+(XY)  (XNY)/  (XNY)+-Q/Y(XN)T /(XNT) (XY) /
+(NY)  (CNY)/  (CNY)+-Q/Y(CN)T /(CNT) (CY) /
+(ZY)  (ZCN)/E (ZCN) / (ZCN)  /(ZCNE)T(ZY)T/
+
+(VY)  (VNY)/  (VNY)+-Q/Y(VN)T /(VNT) (VY) /
+(XY)  (XNY)/  (XNY)+-Q/Y(XN)T /(XNT) (XY) /
+(NY)  (CNY)/  (CNY)+-Q/Y(CN)T /(CNT) (CE) /
+(ZE)  (ZCN)/T (ZCN) / (ZCN)  /(ZCND)G(ZH)G/
+
+(VH)  (VNH)/  (VNH)+-Q/H(VN)G /(VNG) (VH) /
+(XH)  (XNH)/  (XNH)+-Q/H(XN)G /(XNG) (XH) /
+(NH)  (CNH)/  (CNH)+-E/W-(CN)-EQ+-W/(CNH)+-Q(CG)+-Q/
+(ZJ) (ZCN)+-H/D (ZCN) / (ZCN)  /(ZCND)G(ZH)G/
+
+(VH)  (VNH)/  (VN)+-H/R-(VN)-EW+-E/(VNW)+-Q(VH)+-Q/
+(XW)  (XNW)/  (XNW)-H-Q/W(XN) -H-Q/(XNW) X+-E/
+(NW)+-QH(CN)/W+-Q(CNH) /W-(CN)-QH /(CNW)+-Q(CH) /
+(NW)-Q-HW-(QCN)-H/W-Q-H(CNW)-Q-H/W-(QCN)-HW-Q-H/(CNH)   /
+
+(NH)  (CN)/E (CN) /R C /(CNE) C /
+(NW)  (CN)/E (CN) /Q C /(CNE) C /
+(CN)  (CN)/D (CN) /F C /(CND) C /
+(NS)  (CN)/D (CN) /A C /(CND) C /
+
+(CN)  (CN)/D (CN) /F C /(CND) C /
+(NS)  (CN)/D (CN) /A C /(CNM) C /
+(CN)   /

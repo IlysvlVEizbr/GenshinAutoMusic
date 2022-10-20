@@ -6,8 +6,8 @@ bpm=435
 
 (XG)  (SGW)/  (SGW)+-R/E(SG)W /(SGQ) (XW) /
 (XR) (AF)+-T/E (AF)+-R/W(SG) +-R/(SGE) (BE) /
-N HD/  (DH) / (DH)  /(DH) N /
-N  (DH)/  (DH) / (DH)  /(DHW)Q(NJ)Q/
+N HD/  (DH) / (DH)  /(DH) -(NH)-H-H-H/
+-(NH)-H  (DH)/  (DH) / (DH)  /(DHW)Q(NJ)Q/
 
 (NH)  (DHE)/  (DHE)+-T/R(DH)E /(DHW) (NE) /
 (NH)  (DHE)/  (DHE)+-T/R(DH)E /(DHE) N /
@@ -16,8 +16,8 @@ N  (DH)/  (DH) / (DH)  /(DHW)Q(NJ)Q/
 
 (XG)  (SGW)/  (SGW)+-R/E(SG)W /(SGQ) (XW) /
 (XR) (AF)+-T/E (AF)+-R/W(SG) +-R/(SGE) (BE) /
-N HD/  (DH) / (DH)  /(DH) N /
-N  (DH)/  (DH) / (DH)  /(CNE)T(NY)T/
+N HD/  (DH) / (DH)  /(DH) -(NH)-H-H-H/
+-(NH)-H  (DH)/  (DH) / (DH)  /(CNE)T(NY)T/
 
 (VY)  (VNY)/  (VNY)+-Q/Y(VN)T /(VNT) (VY) /
 (XY)  (XNY)/  (XNY)+-Q/Y(XN)T /(XNT) (XY) /
